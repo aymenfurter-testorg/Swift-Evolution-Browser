@@ -86,3 +86,4 @@ A. メインテーマは『学習』（とリハビリ）
 ## Author
 
 Yusuke Hosonuma / [@tobi462](https://twitter.com/tobi462)
+
